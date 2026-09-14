@@ -656,7 +656,15 @@ Theory solidifies only when connected to something that runs. Build these 5 proj
 
 This open-source collection thrives on community collaboration. Whether you are an AI researcher, production engineer, or student:
 - ⭐ **Star & Share**: If this curriculum helps your learning journey, star this repository and share it with your study group, university, or engineering team.
-- 📥 **Submit Additions**: Open a Pull Request or Issue to suggest high-impact papers, updated 2026 books, or new cheatsheets.
+- 📥 **Submit Additions**: Open a Pull Request or Issue to suggest high-impact papers, updated books, or new cheatsheets.
+
+---
+
+## ⚖️ Disclaimer & Fair Use Notice
+
+This repository and its curated contents are maintained strictly for **educational, academic, research, and non-commercial personal study purposes**. All registered trademarks, copyrights, and intellectual property rights belong to their respective authors, publishers, and institutions (O'Reilly, Manning, Wiley, MIT Press, arXiv, and independent researchers).
+
+If you are a copyright holder and wish to request the removal or modification of any material, please open an Issue or contact the maintainer, and your request will be honored promptly.
 
 ---
 *Maintained with pride for the global AI Engineering community. Open a PR to suggest additions.*
