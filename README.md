@@ -70,7 +70,10 @@ In production, **AI Engineering is systems engineering**. You treat models as no
 - [🛠️ Recommended Hands-On Capstone Projects](#recommended-hands-on-capstone-projects)
 - [👥 Top Communities, Newsletters & Interview Prep](#top-communities-newsletters-interview-prep)
 - [💡 Core Engineering Principles](#core-engineering-principles-build-as-you-read)
-- [🤝 Contributing & Community Support](#contributing-community-support)
+- [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [⚖️ Disclaimer & Fair Use Notice](#️-disclaimer--fair-use-notice)
+- [📜 License](#-license)
+- [🌟 Star History](#-star-history)
 
 ---
 
@@ -652,19 +655,62 @@ Theory solidifies only when connected to something that runs. Build these 5 proj
 
 ---
 
-## 🤝 Contributing & Community Support
+## 🤝 Contributing Guidelines
 
-This open-source collection thrives on community collaboration. Whether you are an AI researcher, production engineer, or student:
-- ⭐ **Star & Share**: If this curriculum helps your learning journey, star this repository and share it with your study group, university, or engineering team.
-- 📥 **Submit Additions**: Open a Pull Request or Issue to suggest high-impact papers, updated books, or new cheatsheets.
+Contributions are warmly welcomed and deeply appreciated! If you have a definitive book, frontier research paper, system design guide, or cheatsheet that strengthens this curriculum, please follow these steps:
+
+1. **Fork** this repository.
+2. **Create a new branch** for your additions (`git checkout -b feature/add-new-book`).
+3. **Add your PDF file(s)** to the matching sequential category folder (`00`–`10`). If a suitable category doesn't exist, please open an Issue to discuss adding a new architectural layer.
+4. **Follow clear file naming conventions**:
+   - For published books: `[Publisher] Book Title (Author).pdf` or `Book Title (Author).pdf`
+   - For research papers: `Paper Title - Subtitle.pdf`
+5. **Update [README.md](README.md)**:
+   - Add the book to the corresponding catalog table with its Tier (`🔑 Core` or `📎 Supplementary`), Publisher, page count, and a deep technical breakdown of key takeaways.
+   - Update the directory structure counts and relevant learning tracks if it represents a foundational milestone.
+6. **Commit your changes** (`git commit -m 'Add: Book Title by Author'`).
+7. **Push to your forked repository** (`git push origin feature/add-new-book`).
+8. **Open a Pull Request** to the `main` branch of this repository with a clear description of why this resource benefits AI Engineers.
+
+### 📋 Guidelines for Contributions:
+- **Relevance**: Ensure the material directly addresses production AI Engineering (LLMs, Context/RAG, Agentic Systems, Harness, Loop, or Graph Engineering).
+- **Quality Over Quantity**: We prioritize authoritative, rigorous, production-grade literature over high-level marketing overviews.
+- **Legally Shareable**: Prioritize materials that are open-access, public domain, preprints (arXiv), or shared under educational fair-use principles.
+- **Avoid Duplicates**: Check the existing catalog across folders `00`–`10` before adding.
 
 ---
 
 ## ⚖️ Disclaimer & Fair Use Notice
 
-This repository and its curated contents are maintained strictly for **educational, academic, research, and non-commercial personal study purposes**. All registered trademarks, copyrights, and intellectual property rights belong to their respective authors, publishers, and institutions (O'Reilly, Manning, Wiley, MIT Press, arXiv, and independent researchers).
+The books, academic research papers, architecture blueprints, and cheatsheet materials available in this repository are curated from publicly accessible internet sources, arXiv preprints, technical research blogs, or contributed by users. They are intended strictly for **educational, academic, and non-commercial personal study purposes**.
 
-If you are a copyright holder and wish to request the removal or modification of any material, please open an Issue or contact the maintainer, and your request will be honored promptly.
+- **Copyright & Intellectual Property**: All copyrights, trademarks, and intellectual property rights for the books, papers, and manuscripts belong entirely to their respective authors, researchers, and publishers (including O'Reilly Media, Manning Publications, Wiley, MIT Press, Stanford University, OpenAI, Anthropic, LMSYS, etc.). This repository does not claim ownership of any copyrighted material.
+- **Educational Reference Index**: This repository operates as an organized educational index and academic collection point, akin to a university reference library. If you find these published books valuable for your career, please **support the original authors and publishers** by purchasing official commercial copies.
+- **User Responsibility**: Users of this repository are solely responsible for complying with all applicable copyright laws and licensing agreements in their jurisdiction.
+- **Notice & Takedown Policy**: We respect intellectual property and have no intent to infringe on legitimate copyrights. If you are a copyright owner or authorized agent and believe that your work is included in this repository without authorization, please open an Issue or contact the maintainer directly with sufficient identifying details. The material will be promptly investigated and removed immediately upon request.
 
 ---
-*Maintained with pride for the global AI Engineering community. Open a PR to suggest additions.*
+
+## 📜 License
+
+- The repository structure, curated learning tracks, system architecture diagrams, and documentation (including this `README.md` and the master roadmap `The-Definitive-AI-Engineer-Roadmap-2026.md`) are licensed under the **[MIT License](LICENSE)**.
+- Individual books, papers, and third-party documents within this repository retain their original copyrights and licenses as established by their respective authors and publishers.
+
+---
+
+## 🌟 Star History
+
+<div align="center">
+
+<a href="https://star-history.com/#saccerwin/ai-engineer-roadmap&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=saccerwin/ai-engineer-roadmap&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=saccerwin/ai-engineer-roadmap&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=saccerwin/ai-engineer-roadmap&type=Date" width="100%" />
+  </picture>
+</a>
+
+</div>
+
+---
+*Maintained with pride for the global AI Engineering community. If this roadmap helps your journey, please consider giving it a ⭐!*
