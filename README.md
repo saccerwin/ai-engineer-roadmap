@@ -698,6 +698,26 @@ The books, academic research papers, architecture blueprints, and cheatsheet mat
 
 ---
 
+## ✍️ Tác Giả & Người Duy Trì (Author & Maintainer)
+
+Lộ trình và cuốn sách **The Definitive AI Engineer Roadmap** được xây dựng và duy trì bởi **Đặng Duy Hậu ([@saccerwin](https://github.com/saccerwin))**.
+
+> *Một kỹ sư Trí tuệ Nhân tạo kiêm một anh chàng đam mê chu du, khám phá những điều kỳ thú của thiên nhiên, văn hóa và phong cách sống dã ngoại.*
+
+### 🌐 Hệ Sinh Thái & Các Dự Án Của Tác Giả:
+* 🤖 **AI & Tech**: 
+  * [The Definitive AI Engineer Roadmap](https://github.com/saccerwin/ai-engineer-roadmap) - Sách & lộ trình hệ thống hóa 35+ đầu sách kỹ thuật AI thực chiến.
+  * [antigravity-flow](https://github.com/saccerwin/antigravity-flow) - Bộ công cụ CLI tối ưu workflow phát triển AI agents.
+* 🏕️ **Outdoor & Cắm Trại**:
+  * [Dịch vụ cho thuê đồ Camping Đà Nẵng](https://saccerwin-camping-site.vercel.app/) - Đồng hành cùng các chuyến cắm trại khám phá Hòa Bắc, Sơn Trà, Hải Vân.
+* 📖 **Triết Lý Sống & Nhân Sinh**:
+  * [Blog Người Từng Trải](http://nguoitungtrai.saccerwin.com/) - Cẩm nang cách sống tốt, sống sâu sắc và gìn giữ bình yên dành cho người Việt Nam.
+* 🎥 **Sáng Tạo Nội Dung & Du Lịch**:
+  * [YouTube: @saccerwin](https://www.youtube.com/@saccerwin) - Kênh video trải nghiệm dã ngoại, du lịch thiên nhiên và công nghệ.
+  * [TikTok: @hauchududoday (Hậu Chu Du Đó Đây)](https://www.tiktok.com/@hauchududoday) - Video ngắn về những cung đường chu du và cảnh sắc kỳ thú.
+
+---
+
 ## 🌟 Star History
 
 <div align="center">
@@ -713,4 +733,4 @@ The books, academic research papers, architecture blueprints, and cheatsheet mat
 </div>
 
 ---
-*Maintained with pride for the global AI Engineering community. If this roadmap helps your journey, please consider giving it a ⭐!*
+*Maintained with pride by [saccerwin (Đặng Duy Hậu)](https://github.com/saccerwin) for the global AI Engineering community. If this roadmap helps your journey, please consider giving it a ⭐!*
